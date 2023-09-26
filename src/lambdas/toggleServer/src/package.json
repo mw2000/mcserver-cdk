@@ -1,0 +1,14 @@
+{
+  "name": "odyssey-minecraft-server-lambda-toggle-server",
+  "version": "0.1.0",
+  "description": "A lambda function to toggle the Minecraft Server on and off",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mihir Wadekar",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1463.0"
+  }
+}
